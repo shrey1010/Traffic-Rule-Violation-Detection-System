@@ -1,0 +1,3 @@
+    id,plate_number,violation_count
+    1, AE670S, 1
+    1, AV619Q, 1

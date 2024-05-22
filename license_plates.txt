@@ -1,0 +1,6 @@
+id,plate_number,violation_count
+1,YB 6433,1
+1,YB 6433,2
+1,YB 6433,2
+1,YB 6433,2
+1,YB 6433,2

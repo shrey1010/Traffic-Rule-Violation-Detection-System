@@ -1,0 +1,28 @@
+# General dependencies
+numpy==1.21.4
+pandas==1.3.4
+opencv-python-headless==4.5.4.58
+scipy==1.7.3
+matplotlib==3.5.0
+
+# Machine Learning dependencies
+tensorflow==2.7.0
+torch==1.10.0
+torchvision==0.11.1
+yolov5==5.0  # You might need to adjust this based on the YOLOv5 setup
+
+# OCR dependencies
+pytesseract==0.3.8
+pillow==8.4.0
+
+# Other dependencies
+imutils==0.5.4
+scikit-learn==1.0.1
+h5py==3.6.0
+
+# Additional tools and utilities
+tqdm==4.62.3
+requests==2.26.0
+
+# Ensure compatibility with some specific versions
+protobuf==3.19.1
