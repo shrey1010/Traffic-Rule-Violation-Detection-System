@@ -112,7 +112,7 @@ Follow these steps to set up and run the Traffic Violation Detection System on y
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/shrey1010/traffic-violation-detection-system.git
+git clone https://github.com/shrey1010/Traffic-Rule-Violation-Detection-System.git
 cd traffic-violation-detection-system
 ```
 
@@ -216,10 +216,10 @@ After running the system, results including detected violations and recognized l
 ![Red Light Violation](screenshots/yellow_light.png)
 
 ### Over Speeding Detection
-![Over Speeding Detection](screenshots/over_speeding.png.png)
+![Over Speeding Detection](screenshots/over_speeding.png)
 
 ### License Plate Recognition
-![License Plate Recognition](screenshots/no_plate.png.png)
+![License Plate Recognition](screenshots/no_plate.png)
 
 ## Patent and Research Paper
 
@@ -234,14 +234,14 @@ We welcome contributions from the community.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
 
 ## Contact
 
 For any queries or further information, please contact:
 
 - **Email**: shreyshukla1010@gmail.com
-- **GitHub**: [https://github.com/shrey1010/traffic-violation-detection-system](https://github.com/shrey1010/traffic-violation-detection-system)
+- **GitHub**: [https://github.com/shrey1010/traffic-violation-detection-system](https://github.com/shrey1010/Traffic-Rule-Violation-Detection-System)
 
 ## Additional Resources
 
